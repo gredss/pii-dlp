@@ -118,7 +118,7 @@ dlp_benchmark_v2.py
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/gredss/pii-dlp
 cd dlp-v2
 
 # Install dependencies
