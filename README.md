@@ -1,6 +1,6 @@
 ### Dataset Generation
 
-**Module:** `dataset.py`
+**Module:** `dataset_generation_dlp.ipynb`
 
 **Process:**
 1. Generate 5,000 synthetic identities using Faker
